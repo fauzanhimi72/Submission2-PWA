@@ -1,0 +1,25 @@
+{
+    "name": "SUPERSOCCER",
+    "gcm_sender_id": "490160056005",
+    "short_name": "SUPERSOCCER",
+    "description": "Aplikasi Informasi Sepak Bola",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#D7D7D7",
+    "theme_color": "#D7D7D7",
+    "gcm_sender_id": "243564419668",
+    "icons": [
+        {
+            "src": "images/icon-192px.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/icon-512px.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
