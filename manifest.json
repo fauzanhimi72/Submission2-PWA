@@ -3,7 +3,7 @@
     "gcm_sender_id": "490160056005",
     "short_name": "SUPERSOCCER",
     "description": "Aplikasi Informasi Sepak Bola",
-    "start_url": "/index.html",
+    "start_url": "index.html",
     "display": "standalone",
     "background_color": "#D7D7D7",
     "theme_color": "#D7D7D7",
